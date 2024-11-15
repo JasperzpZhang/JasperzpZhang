@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Jasper
-- 👀 I’m interested in embedded software development, especially in IoT and AIoT fields, as well as management and entrepreneurship.
-- 🌱 I’m currently learning embedded software, C/C++, data structures and algorithms, and Linux development.
-- 💞️ I’m looking to collaborate on embedded development projects, especially those related to IoT, AIoT, and high-performance hardware-software integration.
-- 📫 How to reach me: You can reach me through GitHub or email.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy exploring new technologies, especially in the embedded systems field, and I have an interest in financial markets and data analysis.
+Hi, I’m Jasper 👋
+👀 I’m interested in Microcontroller and ARM programming.
+🌱 I’m currently learning FreeRTOS for STM32
+💞️ I’m looking to collaborate on C and STM32 based projects.
+📫 How to reach me.. Email me at jasperzpzhang@gmail.com
 
 <!---
 JasperzpZhang/JasperzpZhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
