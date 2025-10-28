@@ -1,6 +1,6 @@
 👋 Hey, I’m Jasper
 
-🤝 Always up for collaborating on embedded C projects .
+🤝 Always up for collaborating on embedded projects .
 
 📫 Reach me at jasperzpzhang@gmail.com
 
